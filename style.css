@@ -1,0 +1,34 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px ;
+
+}
+
+.seection{
+
+    width:200px ;
+    height: 220px;
+    display: flex;
+
+}
+
+
+
+li{
+
+    width: 15px;
+    height: 15px;
+    background-color: white;
+
+}
+
+.box{
+
+    
+    background-color: black;
+
+}
+
